@@ -1,5 +1,6 @@
 .my-orders {
   margin: 50px 0px;
+  min-height: 15vh;
 }
 .my-orders .container {
   display: flex;
