@@ -26,8 +26,13 @@ Tomato is a full-stack food delivery web app built with the MERN stack and Strip
 ---
 
 ## 📸 Screenshots
-
-*Add screenshots of your application here showing the main pages: Home, Menu, Cart, Order Tracking, and Admin Panel*
+<img width="1920" height="922" alt="Screenshot 2026-01-11 203434" src="https://github.com/user-attachments/assets/4e1903eb-3490-4c24-9b10-bf2e61c30012" />
+<img width="1920" height="913" alt="Screenshot 2026-01-11 203441" src="https://github.com/user-attachments/assets/64ed9aef-3a66-48ba-a73f-052665bec095" />
+<img width="1920" height="915" alt="Screenshot 2026-01-11 203450" src="https://github.com/user-attachments/assets/2cc2bde2-3198-4192-b1a5-aa4e3acda988" />
+<img width="1920" height="918" alt="Screenshot 2026-01-11 203535" src="https://github.com/user-attachments/assets/357bb189-f809-47bc-a149-527e398a1300" />
+<img width="1920" height="912" alt="Screenshot 2026-01-11 203551" src="https://github.com/user-attachments/assets/87452876-83e4-4a9f-81e7-815c1eedd7a8" />
+<img width="1920" height="910" alt="Screenshot 2026-01-11 203600" src="https://github.com/user-attachments/assets/d85cd5ec-068b-48e1-9fb4-dfe246b0f170" />
+<img width="1920" height="912" alt="Screenshot 2026-01-11 203358" src="https://github.com/user-attachments/assets/d7ef6f26-958d-4a84-ab9e-b763d4d13867" />
 
 ---
 # 🛠️ Tech Stack
