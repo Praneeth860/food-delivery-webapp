@@ -201,7 +201,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Praneeth Medicharla**
 - GitHub: [Praneeth860](https://github.com/Praneeth860)
-- LinkedIn: [Praneeth](www.linkedin.com/in/praneethmedicharla)
+- LinkedIn: [Praneeth](https://www.linkedin.com/in/praneethmedicharla)
 
 ---
 
