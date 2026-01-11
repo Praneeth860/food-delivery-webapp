@@ -1,4 +1,4 @@
-### Tomato - Food Delivery Website (MERN Stack) 🍔
+# Tomato - Food Delivery Website (MERN Stack) 🍔
 
 ![React](https://img.shields.io/badge/React-19.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js&logoColor=white)
